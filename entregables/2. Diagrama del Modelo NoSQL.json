@@ -1,0 +1,15 @@
+{
+     "Comentario": {
+       "id": "string",
+       "productoId": "long",
+       "clienteId": "long",
+       "contenido": "string",
+       "fecha": "date"
+     },
+     "ProductoRelacionado": {
+       "id": "string",
+       "productoId": "long",
+       "productosRelacionadosIds": ["long"]
+     }
+   }
+   
