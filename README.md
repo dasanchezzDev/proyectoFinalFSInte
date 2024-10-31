@@ -64,10 +64,10 @@ Las contribuciones son bienvenidas. Por favor, abre un issue para discutir cambi
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Contacto
-David Rodrigo Sánchez Amaya - [dasanchezzdev@gmail.com](mailto:dasanchezzdev@gmail.com)
-Jose Roberto Contreras Flores
-Justo Enrique García Portillo
-Edy Benjamín Benito Batz
-Josias Estuardo Mejia Pich
-Gonzalo Adolfo Lacán Lacán
-Enlace del Proyecto: [https://github.com/dasanchezzDev/proyectoFinalFSInte](https://github.com/dasanchezzDev/proyectoFinalFSInte)
+- David Rodrigo Sánchez Amaya - [dasanchezzdev@gmail.com](mailto:dasanchezzdev@gmail.com)
+- Jose Roberto Contreras Flores
+- Justo Enrique García Portillo
+- Edy Benjamín Benito Batz
+- Josias Estuardo Mejia Pich
+- Gonzalo Adolfo Lacán Lacán
+-  Enlace del Proyecto: [https://github.com/dasanchezzDev/proyectoFinalFSInte](https://github.com/dasanchezzDev/proyectoFinalFSInte)
